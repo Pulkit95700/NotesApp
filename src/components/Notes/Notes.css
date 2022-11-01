@@ -1,0 +1,9 @@
+.notes{
+    width: inherit;
+    min-height: 100px;
+    padding: 3rem 5rem;
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}

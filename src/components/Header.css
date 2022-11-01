@@ -1,0 +1,18 @@
+.header{
+    width: 100%;
+    height: 5rem;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: white;
+    background-color: rgb(74, 205, 223);
+}
+.header--icon{
+    margin: auto 10px;
+}
+.header--logo{
+    rotate: 180deg;
+    margin: auto 2rem auto auto;
+}
+
