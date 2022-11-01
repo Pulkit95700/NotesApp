@@ -6,11 +6,13 @@ import "./Header.css";
 
 const Header = () => {
   return (
-        <header className = "header">
-            <DescriptionIcon className='header--icon'/>
-            <Typography variant="h4">Make Notes</Typography>
-            <TungstenIcon className='header--logo'/>
-        </header>
+        <>
+          <header className = "header">
+              <DescriptionIcon className='header--icon'/>
+              <Typography variant="h4">Make Notes</Typography>
+              <TungstenIcon className='header--logo'/>
+          </header>
+        </>
 )
 }
 
